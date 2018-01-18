@@ -3,7 +3,7 @@ name: The International Molecular Exchange Consortium
 group: IMEx
 email: intact-ebi@ebi.ac.uk
 domain: //imex-consortium.github.io
-baseurl: /IMEx-site
+baseurl: /
 permalink: pretty
 
 # Add custom CSS / JS here
