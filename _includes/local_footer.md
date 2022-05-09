@@ -11,8 +11,8 @@ IntAct</a>
 <a href="http://mint.bio.uniroma2.it" class="column padding-bottom-large"><img src="{{ site.baseurl }}/static/logos/imex_mint_s.png" /><br/>
 MINT</a>
 
-<a href="http://ophid.utoronto.ca/i2d/" class="column padding-bottom-large"><img src="{{ site.baseurl }}/static/logos/imex_id2_s.png" /><br/>
-I2D</a>
+<a href="http://ophid.utoronto.ca/iid" class="column padding-bottom-large"><img src="{{ site.baseurl }}/static/logos/imex_iid_s.png" /><br/>
+IID</a>
 
 <a href="http://matrixdb.univ-lyon1.fr/" class="column padding-bottom-large"><img src="{{ site.baseurl }}/static/logos/imex_matrixdb_s.png" /><br/>
 MatrixDB</a>
