@@ -36,6 +36,7 @@ UCL-BHF</a>
 <div class="columns medium-3" markdown="1">
 #### Inactive IMEx Partners
 
+<div class="columns medium-up-2 no-underline text-center small">
 <a href="http://www.mechanobio.info/" class="column padding-bottom-large"><img src="{{ site.baseurl }}/static/logos/imex_mbinfo_s.png" /><br/>
 MBInfo</a>
 
@@ -45,6 +46,7 @@ HPIDB</a>
 <a href="http://www.molecularconnections.com" class="column padding-bottom-large"><img src="{{ site.baseurl }}/static/logos/imex_mconnections_s.png" /><br/>
 Molecular Connections</a>
 
+</div>
 </div>
 </div>
 
