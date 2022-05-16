@@ -33,7 +33,7 @@ UCL-BHF</a>
 </div>
 </div>
 
-<div class="columns medium-3 border-left: ridge" markdown="1">
+<div class="columns medium-3" style="border-left: ridge" markdown="1">
 #### Inactive IMEx Partners
 
 <div class="columns medium-up-2 no-underline text-center small">
