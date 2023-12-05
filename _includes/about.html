@@ -220,6 +220,14 @@
             </p>
         </div>
     </section>
+    <section>
+        <div id="sab" class="medium-12 columns padding-left-none">
+            {% capture sab_documentation %}{% include https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/update-sab-members/about/scientific-advisory-board.md %}{% endcapture %}
+            {{ sab_documentation | markdownify }}
+            {% capture imex_partners_documentation %}{% include https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/update-sab-members/about/imex-consortium-partners.md %}{% endcapture %}
+            {{ imex_partners_documentation | markdownify }}
+        </div>
+    </section>
 </div> <!-- /medium-9 -->
 <div class="small-12 medium-3 columns sidebar" data-sticky-container>
 
@@ -231,6 +239,7 @@
                 <li><a href="https://www.ebi.ac.uk/training/search-results?query=intact&domain=ebiweb_training&page=1&facets=">Training</a></li>
                 <li><a href="#licence">Licence</a></li>
                 <li><a href="#disclaimer">Disclaimer</a></li>
+                <li><a href="#sab">SAB</a></li>
             </ul>
         </div>
     </div>
