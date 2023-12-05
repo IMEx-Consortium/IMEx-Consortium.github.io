@@ -21,7 +21,7 @@ repo:        "https://github.com/ebiwd/IMEx-site"
 source:      .
 destination: ./_site
 exclude:     [node_modules, .sass-cache, gulpfile.js, package.json, HOWTO.md]
-#plugins:     ./_plugins
+plugins:     [jekyll-remote-include]
 future:      false
 lsi:         false
 markdown:    kramdown
