@@ -138,6 +138,14 @@
         </div>
     </section>
     <section>
+        <!-- Jekyll in GitHub does not support using external files, so we cannot directly include the MD files from
+             https://github.com/intact-portal/intact-portal-documentation/tree/master/about. When the SAB and IMEx
+             consortium partners members need to be updated, download the latest version of the
+             scientific-advisory-board.md and imex-consortium-partners.md files from the link above and replace
+             the files in the _includes directory.
+             Remember to update the headers in those files to '##' (equivalent to <h2>) to be consistent with
+             other headers in this page.
+         -->
         <div id="sab" class="medium-12 columns padding-left-none">
             {% capture sab_documentation %}{% include scientific-advisory-board.md %}{% endcapture %}
             {{ sab_documentation | markdownify }}
