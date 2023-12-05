@@ -1,4 +1,4 @@
-## IMEx Consortium Partners
+### IMEx Consortium Partners
 
 Representatives of IMEx consortium partners participate in the SAB as observers:
 
