@@ -29,6 +29,5 @@ highlighter: rouge
 
 # Allow redirects
 # https://help.github.com/articles/redirects-on-github-pages/
-gems:
-  - jekyll-remote-include
+#gems:
 #  - jekyll-redirect-from

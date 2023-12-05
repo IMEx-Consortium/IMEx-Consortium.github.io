@@ -222,9 +222,9 @@
     </section>
     <section>
         <div id="sab" class="medium-12 columns padding-left-none">
-            {% capture sab_documentation %}{% remote_include https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/update-sab-members/about/scientific-advisory-board.md %}{% endcapture %}
+            {% capture sab_documentation %}{% include scientific-advisory-board.md %}{% endcapture %}
             {{ sab_documentation | markdownify }}
-            {% capture imex_partners_documentation %}{% remote_include https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/update-sab-members/about/imex-consortium-partners.md %}{% endcapture %}
+            {% capture imex_partners_documentation %}{% include imex-consortium-partners.md %}{% endcapture %}
             {{ imex_partners_documentation | markdownify }}
         </div>
     </section>
