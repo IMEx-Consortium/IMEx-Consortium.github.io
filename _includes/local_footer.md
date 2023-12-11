@@ -48,5 +48,15 @@ UCL-BHF</a>
 
 </div>
 </div>
+
+<div id="elixir-banner"
+   data-color="blue"
+   data-name="IntAct and MINT"
+   data-description="IntAct and MINT are ELIXIR Core Data Resources"
+   data-use-cdr-logo="true"
+   data-more-information-link="https://elixir-europe.org/platforms/data/core-data-resources"
+   data-use-basic-styles="true"></div>
+<script defer="defer" src="https://ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.3/js/elixirBanner.js"></script>
+
 </div>
 
