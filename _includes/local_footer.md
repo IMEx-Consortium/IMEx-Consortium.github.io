@@ -26,9 +26,6 @@ InnateDB</a>
 <a href="http://www.isb-sib.ch/" class="column padding-bottom-large"><img src="{{ site.baseurl }}/static/logos/imex_sib_s.png" /><br/>
 SIB</a>
 
-<a href="http://www.ucl.ac.uk/cardiovasculargeneontology" class="column padding-bottom-large"><img src="{{ site.baseurl }}/static/logos/ucl-bhf-logo_s.jpg" /><br/>
-UCL-BHF</a>
-
 
 </div>
 </div>
@@ -46,7 +43,9 @@ HPIDB</a>
 <a href="http://www.molecularconnections.com" class="column padding-bottom-large"><img src="{{ site.baseurl }}/static/logos/imex_mconnections_s.png" /><br/>
 Molecular Connections</a>
 
-</div>
-</div>
-</div>
+<a href="http://www.ucl.ac.uk/cardiovasculargeneontology" class="column padding-bottom-large"><img src="{{ site.baseurl }}/static/logos/ucl-bhf-logo_s.jpg" /><br/>
+UCL-BHF</a>
 
+</div>
+</div>
+</div>
