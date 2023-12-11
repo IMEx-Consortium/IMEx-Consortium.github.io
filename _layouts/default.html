@@ -65,14 +65,7 @@
           {% capture local_footer %}{% include local_footer.md %}{% endcapture %}
           {{ local_footer | markdownify }}
         </div>
-        <div id="elixir-banner"
-             data-color="grey"
-             data-name="IMEx"
-             data-description="IntAct and MINT are ELIXIR Core Data Resources"
-             data-use-cdr-logo="true"
-             data-more-information-link="https://elixir-europe.org/platforms/data/core-data-resources"
-             data-use-basic-styles="true"></div>
-        <script defer="defer" src="https://ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.3/js/elixirBanner.js"></script>
+        {% include elixir-banner.html %}
       </div>
       <!-- End optional local footer -->
     </div><!-- /.container -->
